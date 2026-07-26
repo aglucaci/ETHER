@@ -1,530 +1,73 @@
 # ETHER scientific literature radar
 
-**Updated:** 2026-07-25 14:25:33  
-**Window:** last 14 day(s)  
+**Updated:** 2026-07-26 14:21:05  
+**Window:** last 1 day(s)  
 **Ranking:** Research Relevance Score (topic priority + research signals + source metadata + recency + cross-domain bridge)
 
 
-## Selection & codon models — 12 result(s)
+## Selection & codon models — 0 result(s)
 
-- **[Recombination and diversifying selection drive the adaptive evolution of tet(X)-Positive Escherichia coli.](https://pubmed.ncbi.nlm.nih.gov/42467379/)**  
-  Kaikai He, Shuhang Zhang, Jie Xing, Yi Ma · European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology · 2026-07-17  
-  _Research Relevance Score:_ `18.977`  
-  _Signals:_ Selection, Viral evolution, Metagenomics / surveillance, Cancer evolution, Methods  
-  _This study aimed to characterize the population structure, recombination landscapes and diversification patterns of global tet(X)-positive Escherichia coli. We conducted phylogenomic, recombination and diversifying selection analyses on 1721 global tet(X)-posi…_
-- **[Pre-pandemic contraction, phase-specific rate variation, and site-specific antigenic adaptation shape influenza A(H3N2) evolutionary dynamics in Hubei, China.](https://pubmed.ncbi.nlm.nih.gov/42267827/)**  
-  Mingwei Peng, Linlin Liu, Xiang Li, Xiao Yu, Qiangling Yin, Xiaolu Zhang · Journal of virology · 2026-06-10  
-  _Research Relevance Score:_ `18.903`  
-  _Signals:_ Selection, Viral evolution, Metagenomics / surveillance, Methods, Emerging threat  
-  _Influenza A(H3N2) is a contributor to seasonal epidemics, yet its evolution during and after the COVID-19 pandemic is not fully understood. We analyzed surveillance data and hemagglutinin (HA) and neuraminidase (NA) sequences from Hubei, China, 2017-2024. The …_
-- **[Genetic variability of blainvillea yellow spot virus (Begomovirus blainvilleae) reveals recombinant variants and a distinct nonanucleotide motif.](https://pubmed.ncbi.nlm.nih.gov/42474804/)**  
-  Marcelo H O Gonçalves, Ayane F F Quadros, Mayra M M Ferro, Anelise F Orílio, João Paulo H Silva, Julia B Lage · Archives of virology · 2026-07-20  
-  _Research Relevance Score:_ `16.223`  
-  _Signals:_ Selection, Viral evolution, Emerging threat  
-  _Viruses from wild plants may emerge as new economically important agricultural pathogens through spillover events. Blainvillea yellow spot virus (Begomovirus blainvilleae, BlYSV) is a bipartite geminivirus which is ubiquitous in the non-cultivated plant Blainv…_
-- **[Selective pressure-driven identification of conserved regions for Oropouche virus molecular detection.](https://pubmed.ncbi.nlm.nih.gov/42485961/)**  
-  Andrea Avendano, Carla Mavian, Leandro Balzano-Nogueira, Melissa Ait Said, Marco Salemi, Alberto Paniz-Mondolfi · Diagnostic microbiology and infectious disease · 2026-07-16  
-  _Research Relevance Score:_ `15.669`  
-  _Signals:_ Selection, Metagenomics / surveillance  
-  _Oropouche virus (OROV) is an emerging virus that causes a wide spectrum of febrile illnesses in humans. In this study, we examined two of the most commonly used primer sets for the clinical diagnosis of OROV to identify potential reduction in diagnostic sensit…_
-- **[Comparative mitochondrial genomics of Ophiocordycipitaceae fungi reveals AT bias and site-specific positive selection in the nad4 gene.](https://pubmed.ncbi.nlm.nih.gov/42479271/)**  
-  Qiuyang Wei, Yuanchuan He, Shijiang Chen · Archives of microbiology · 2026-07-21  
-  _Research Relevance Score:_ `13.766`  
-  _Signals:_ Selection, Methods  
-  _The fungal family Ophiocordycipitaceae (Hypocreales, Ascomycota) includes the medicinally important Ophiocordyceps sinensis. However, comparative mitogenomic analyses remain limited. Here, we analyzed mitochondrial genomes from 18 species spanning Ophiocordyce…_
-- **[Plastome evolution and phylogenomic insights from representative taxa across all nine subfamilies of Malvaceae.](https://pubmed.ncbi.nlm.nih.gov/42471574/)**  
-  Wen Deng, Hui-Long Li, Wei Gu, Kai-Lun An, Li-Bo Zhao, Xiao-Gang Fu · BMC plant biology · 2026-07-18  
-  _Research Relevance Score:_ `11.986`  
-  _Signals:_ Selection, Methods  
-  _Malvaceae Juss. comprises nine subfamilies and approximately 4,225 species, many of which are ecologically significant and several of which are cultivated for their high economic value. However, the backbone phylogeny of the family remains poorly resolved, and…_
-- **[CAPHEINE, or everything and the kitchen sink: a workflow for automating selection analyses using HyPhy.](https://pubmed.ncbi.nlm.nih.gov/42463133/)**  
-  Hannah Verdonk, Danielle Callan, Sergei L Kosakovsky Pond · Genome biology and evolution · 2026-07-17  
-  _Research Relevance Score:_ `10.377`  
-  _Signals:_ Selection  
-  _Here we present CAPHEINE, a computational workflow that starts with a set of unaligned pathogen sequences and a reference genome and performs a comprehensive exploratory evolutionary analysis of the input data. CAPHEINE pairs nicely with studies of site-level …_
-- **[Comparative chloroplast genome analysis reveals genetic differentiation and maternal introgression in tea plants (Camellia sinensis) from Shaoyang, China.](https://pubmed.ncbi.nlm.nih.gov/42469642/)**  
-  Jin Li, Ni Zhong, Yu Qin, Chang-Qing Xie, Han Tang, Ai-Ming Tang · BMC plant biology · 2026-07-17  
-  _Research Relevance Score:_ `8.977`  
-  _Signals:_ Selection, Methods  
-  _Although the tea germplasm resources in the Shaoyang area of south-west Hunan Province, China, are extremely diverse, knowledge of the maternal lineages and adaptive evolution of these resources is still limited. The genetic relationship of the populations in …_
-- **[Contrasting evolutionary patterns of helper and sensor NRC NLRs in lettuce reflect functional divergence following subfunctionalization.](https://pubmed.ncbi.nlm.nih.gov/42461951/)**  
-  Hsuan Pai, Toshiyuki Sakai, Andres Posbeyikian, Raoul Frijters, Yu Sugihara, Mauricio P Contreras · PLoS genetics · 2026-07-16  
-  _Research Relevance Score:_ `8.969`  
-  _Signals:_ Selection, Methods  
-  _Nucleotide-binding domain and leucine-rich repeat immune receptors (NLRs) are known for their rapid evolution, even at the intraspecific level, yet the rates of evolution differ significantly across NLRs. However, the degree to which evolutionary patterns refl…_
-- **[Evolution of Acidic Mammalian Chitinase Gene (CHIA) is Related to Insectivory Feeding in Rodents.](https://pubmed.ncbi.nlm.nih.gov/42494962/)**  
-  Yuntao Tian, Zhenyu Xiong, Chengyao Yang, Chaoyang Luo, Xionghui Xu, Yangsong Wu · Ecology and evolution · 2026-07-22  
-  _Research Relevance Score:_ `8.819`  
-  _Signals:_ Selection  
-  _Insect exoskeletons rich in chitin form a key dietary component for numerous rodents, yet the molecular evolutionary mechanisms of chitin digestion mediated by the acidic mammalian chitinase gene CHIA remain poorly resolved in this hyper-diverse mammalian orde…_
-- **[Association with dynamic habitats disrupts speciation and reduces the efficacy of purifying selection in flightless beetles.](https://pubmed.ncbi.nlm.nih.gov/42484605/)**  
-  Emmanouil Meramveliotakis, Konstantinos Ntatsopoulos, Alfried P Vogler, Anna Papadopoulou · Evolution; international journal of organic evolution · 2026-07-22  
-  _Research Relevance Score:_ `8.819`  
-  _Signals:_ Selection  
-  _Association with temporally dynamic habitats has been proposed as a strong predictor of effective population size (Ne) and speciation rates, and thus also potentially of molecular evolution rates, but empirical insights remain limited. We use a genomic dataset…_
-- **[Back on the Ground: Genome Analysis of Convergent Flight Loss in Rails.](https://pubmed.ncbi.nlm.nih.gov/42441953/)**  
-  Julien Gaspar, Steve A Trewick, Gillian C Gibb · Journal of evolutionary biology · 2026-07-13  
-  _Research Relevance Score:_ `2.745`  
-  _Similar phenotypic traits can evolve independently in response to comparable environmental challenges. A striking example of this process is the repeated and irreversible loss of flight in birds, particularly on islands. The rail family (Rallidae) provides an …_
+_No new items in this window._
 
-## Cancer evolution & somatic selection — 2 result(s)
+## Cancer evolution & somatic selection — 0 result(s)
 
-- **[Long-read sequencing of single cell-derived melanoma sublines reveals divergent and parallel genomic and epigenomic evolutionary trajectories.](https://pubmed.ncbi.nlm.nih.gov/42463712/)**  
-  Yuelin Liu, Anton Goretsky, Ayse G Keskus, Salem Malikic, Tanveer Ahmad, E Michael Gertz · Nature communications · 2026-07-16  
-  _Research Relevance Score:_ `13.219`  
-  _Signals:_ Viral evolution, Cancer evolution, Methods  
-  _Tumor evolution is driven by various mutational processes, ranging from single-nucleotide variants (SNVs) to large structural variants (SVs) to dynamic shifts in DNA methylation. Current short-read sequencing methods struggle to accurately capture the full spe…_
-- **[The AGO2 adaptor LIMD1 expands the functional and evolutionary reach of microRNA targeting.](https://pubmed.ncbi.nlm.nih.gov/42490457/)**  
-  Alex F F Crozier, Kunal M Shah, Paul Grevitt, Anisha Thind, Eleni Maniati, Jun Wang · Science advances · 2026-07-23  
-  _Research Relevance Score:_ `2.678`  
-  _MicroRNA (miRNA) silencing is classically ascribed to RNA-sequence rules that guide Argonaute 2 (AGO2) targeting. Using chimeric eCLIP and complementary analyses in CRISPR-edited human lung epithelial cells, we show that efficient miRNA targeting also depends …_
+_No new items in this window._
 
-## Recombination & mosaicism — 11 result(s)
+## Recombination & mosaicism — 0 result(s)
 
-- **[Recombination and diversifying selection drive the adaptive evolution of tet(X)-Positive Escherichia coli.](https://pubmed.ncbi.nlm.nih.gov/42467379/)**  
-  Kaikai He, Shuhang Zhang, Jie Xing, Yi Ma · European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology · 2026-07-17  
-  _Research Relevance Score:_ `18.827`  
-  _Signals:_ Selection, Viral evolution, Metagenomics / surveillance, Cancer evolution, Methods  
-  _This study aimed to characterize the population structure, recombination landscapes and diversification patterns of global tet(X)-positive Escherichia coli. We conducted phylogenomic, recombination and diversifying selection analyses on 1721 global tet(X)-posi…_
-- **[Genetic variability of blainvillea yellow spot virus (Begomovirus blainvilleae) reveals recombinant variants and a distinct nonanucleotide motif.](https://pubmed.ncbi.nlm.nih.gov/42474804/)**  
-  Marcelo H O Gonçalves, Ayane F F Quadros, Mayra M M Ferro, Anelise F Orílio, João Paulo H Silva, Julia B Lage · Archives of virology · 2026-07-20  
-  _Research Relevance Score:_ `16.073`  
-  _Signals:_ Selection, Viral evolution, Emerging threat  
-  _Viruses from wild plants may emerge as new economically important agricultural pathogens through spillover events. Blainvillea yellow spot virus (Begomovirus blainvilleae, BlYSV) is a bipartite geminivirus which is ubiquitous in the non-cultivated plant Blainv…_
-- **[Full genome sequencing, evolutionary dynamics, and pathogenicity evaluation of chicken infectious anemia virus with emphasis on Upper Egypt reveals genetic variability linked to vaccinal strains.](https://pubmed.ncbi.nlm.nih.gov/42498955/)**  
-  Eman Abd Elmenum Shosha, Ibrahim Eldaghayes, Ali Mahmoud Zanaty, Mohammed A Gamal Eldin, Mervat Masoud Mohamed, A N Gamal Maha · Virology journal · 2026-07-24  
-  _Research Relevance Score:_ `14.986`  
-  _Signals:_ Viral evolution, Methods, Emerging threat  
-  _Despite intensive vaccination efforts, Chicken Infectious Anemia Virus (CIAV) remains a formidable threat to the Egyptian poultry industry, primarily through the emergence of vaccine-escape variants. While most studies have focused on Northern Egypt, there is …_
-- **[Revisiting Algorithms, Tools, and Applications for Sequence and Phylogenetic Analyses in the NGS-Based Omics Era.](https://pubmed.ncbi.nlm.nih.gov/42496932/)**  
-  Abhishek Kumar, Tikam Chand Dakal, Kayenat Parveen, Ravi Bhushan, Bhanupriya Dhabhai, Alisha Parveen · Biochemical genetics · 2026-07-24  
-  _Research Relevance Score:_ `14.486`  
-  _Signals:_ Viral evolution, Methods  
-  _Integrating high-throughput sequencing with phylogenetic analysis now spans everything from single genes to long-read pangenomes and metagenomes, yet practitioners still face fragmented, tool-centric guidance. This review revisits algorithms, tools, and workfl…_
-- **[Whole-genome characterization and pathogenicity of novel human-porcine reassortant rotavirus strains G9P[7] and G1P[7] in China.](https://pubmed.ncbi.nlm.nih.gov/42458604/)**  
-  Meizhen Li, Mengli Qiao, Keshun Bao, Yuanhang Zhang, Panchi Zhang, Jing Chen · Veterinary research · 2026-07-15  
-  _Research Relevance Score:_ `13.711`  
-  _Signals:_ Viral evolution, Emerging threat  
-  _The prevalence of porcine rotavirus A (PoRVA) in China has increased significantly, threatening the swine industry. Pigs serve as "mixing vessels" for rotaviruses, facilitating reassortment between human and animal strains, leading to the emergence of zoonotic…_
-- **[A dual-tier plasmid network model underpins the evolutionary success of pandemic Klebsiella pneumoniae ST11.](https://pubmed.ncbi.nlm.nih.gov/42486965/)**  
-  Alsayed Alfiky, José Manuel Ortiz de la Rosa, Mustafa Sadek · Scientific reports · 2026-07-22  
-  _Research Relevance Score:_ `10.669`  
-  _Signals:_ Metagenomics / surveillance, Cancer evolution, Methods  
-  _The convergence of antimicrobial resistance and hypervirulence in high-risk Klebsiella pneumoniae clones represents a major public health threat. However, evolutionary mechanisms enabling specific lineages to achieve pandemic dominance remain unclear. In this …_
-- **[Insilico study to unveil the characteristics of pseudoRab GTPases in pathogenic protozoan parasites: Entamoeba histolytica.](https://pubmed.ncbi.nlm.nih.gov/42438780/)**  
-  Mrinalini Roy, Kinjal Desai, Zeel Parmar, Tarini Rajput, Jaikee Kumar Singh, Sanket Kaushik · In silico pharmacology · 2026-07-11  
-  _Research Relevance Score:_ `8.879`  
-  _Signals:_ Viral evolution, Emerging threat  
-  _Entamoeba histolytica (Eh) is a parasite that utilizes atypical vesicular transport system supported by a huge repertoire of pseudoRab GTPases, to cause amoebic liver abscesses. We have identified 57 pseudoRab GTPases and classified them into 3 classes: 17 Cla…_
-- **[Unveiling a missing component of the atypical type IV secretion system required for natural transformation of Helicobacter pylori.](https://pubmed.ncbi.nlm.nih.gov/42447168/)**  
-  J Francisco Villa, Sumedha Kondekar, Yoann Fauconnet, Mérick Machouri, Céline Lacrouts, Xavier Veaute · PLoS pathogens · 2026-07-14  
-  _Research Relevance Score:_ `8.403`  
-  _Signals:_ Viral evolution, Methods  
-  _Exchange of genetic information by natural transformation shapes bacterial evolution. In Helicobacter pylori it is thought to drive its unusually high recombination rate, which has a crucial role in the evolution of virulence and the propagation of antibiotics…_
-- **[Identification of two genomic cryptotypes of Plasmodium malariae in Africa.](https://pubmed.ncbi.nlm.nih.gov/42455873/)**  
-  Margaux J M Lefebvre, Céline Arnathau, Sandrine Houzé, Benoit de Thoisy, Camila González, Silvia Rondón · PLoS neglected tropical diseases · 2026-07-15  
-  _Research Relevance Score:_ `4.811`  
-  _Signals:_ Emerging threat  
-  _Plasmodium malariae is a neglected human malaria parasite that causes persistent, often asymptomatic infections and remains difficult to diagnose. Despite being generally associated with lower prevalence and severity than other malaria parasites, P. malariae r…_
-- **[Harnessing endogenous CRISPR-Cas9 for inducible genetic engineering of Apilactobacillus kunkeei.](https://pubmed.ncbi.nlm.nih.gov/42439519/)**  
-  Mahesh S Iyer, Erik Hagström, Kristina Näslund, Siv G E Andersson · Applied and environmental microbiology · 2026-07-13  
-  _Research Relevance Score:_ `2.595`  
-  _Despite substantial advances in bacterial genome engineering, functional genetic analysis remains challenging in many non-model bacterial species, particularly among host-associated gram-positive bacteria. The fructophilic species Apilactobacillus kunkeei has …_
-- **[Horizontal transfer of a 180-kbp genomic fraction among the largest viral genomes.](https://pubmed.ncbi.nlm.nih.gov/42313054/)**  
-  Hiroyuki Hikida, Ruixuan Zhang, Jingjie Chen, Yusuke Okazaki, Hiroyuki Ogata · Applied and environmental microbiology · 2026-06-18  
-  _Research Relevance Score:_ `2.407`  
-  _Viruses are generally considered tiny biological entities with small genomes; however, some dsDNA viruses, known as giant viruses, have large genomes that are comparable to those of small bacteria. These viruses may have evolved from a small ancestor. During t…_
+_No new items in this window._
 
-## Phylodynamics & transmission — 9 result(s)
+## Phylodynamics & transmission — 0 result(s)
 
-- **[Pre-pandemic contraction, phase-specific rate variation, and site-specific antigenic adaptation shape influenza A(H3N2) evolutionary dynamics in Hubei, China.](https://pubmed.ncbi.nlm.nih.gov/42267827/)**  
-  Mingwei Peng, Linlin Liu, Xiang Li, Xiao Yu, Qiangling Yin, Xiaolu Zhang · Journal of virology · 2026-06-10  
-  _Research Relevance Score:_ `18.753`  
-  _Signals:_ Selection, Viral evolution, Metagenomics / surveillance, Methods, Emerging threat  
-  _Influenza A(H3N2) is a contributor to seasonal epidemics, yet its evolution during and after the COVID-19 pandemic is not fully understood. We analyzed surveillance data and hemagglutinin (HA) and neuraminidase (NA) sequences from Hubei, China, 2017-2024. The …_
-- **[Bridging sea and clinic: genomic evidence of shared AMR and virulence determinants in Vibrio fluvialis from human disease and the environment.](https://pubmed.ncbi.nlm.nih.gov/42476503/)**  
-  Dhanalakshmi Solaimalai, Subbulakshmi Rajendran, T Praveen, Kamini Walia, Balaji Veeraraghavan · Indian journal of medical microbiology · 2026-07-20  
-  _Research Relevance Score:_ `15.052`  
-  _Signals:_ Metagenomics / surveillance, Methods, Emerging threat  
-  _Vibrio fluvialis is an emerging enteric pathogen increasingly implicated in diarrhoeal disease outbreaks and sporadic infections, particularly in low- and middle-income countries. Reports of multidrug resistance (MDR) in this species are rising; however, compr…_
-- **[Revisiting Algorithms, Tools, and Applications for Sequence and Phylogenetic Analyses in the NGS-Based Omics Era.](https://pubmed.ncbi.nlm.nih.gov/42496932/)**  
-  Abhishek Kumar, Tikam Chand Dakal, Kayenat Parveen, Ravi Bhushan, Bhanupriya Dhabhai, Alisha Parveen · Biochemical genetics · 2026-07-24  
-  _Research Relevance Score:_ `14.486`  
-  _Signals:_ Viral evolution, Methods  
-  _Integrating high-throughput sequencing with phylogenetic analysis now spans everything from single genes to long-read pangenomes and metagenomes, yet practitioners still face fragmented, tool-centric guidance. This review revisits algorithms, tools, and workfl…_
-- **[Drivers of sylvatic yellow fever transmission in southeast Brazil: a joint epidemiological and phylodynamic inference.](https://pubmed.ncbi.nlm.nih.gov/42480577/)**  
-  Ciara Judge, Felipe C M Iani, Emilie Finch, Katy A M Gaythorpe, Nuno R Faria, Sarah C Hill · The Lancet. Planetary health · 2026-07-21  
-  _Research Relevance Score:_ `14.148`  
-  _Signals:_ Viral evolution, Methods, Emerging threat  
-  _Yellow fever virus (YFV) has caused substantial human disease in Brazil, driven by spillover from outbreaks in nearby non-human primates (NHPs). As disease surveillance in NHPs is challenging, the impact of environmental conditions on YFV outbreaks in NHPs rem…_
-- **[Genomic epidemiology of carbapenem resistance in Acinetobacter baumannii in Chile.](https://pubmed.ncbi.nlm.nih.gov/42495449/)**  
-  Pablo Araya-Vega, Maximiliano Matus-Köhler, Victoria Mardones-Verdugo, Sofía Gómez-Inostroza, Paulina González-Muñoz, Esteban Paredes-Osses · JAC-antimicrobial resistance · 2026-07-23  
-  _Research Relevance Score:_ `10.878`  
-  _Signals:_ Viral evolution, Metagenomics / surveillance, Methods  
-  _Carbapenem-resistant Acinetobacter baumannii (CRAb) is a World Health Organization (WHO) critical priority pathogen, yet genomic data from Chile are scarce. Here, we investigated the genetic diversity of Chilean isolates, focusing on molecular epidemiology, ca…_
-- **[Rapid Expansion of Highly Pathogenic Avian Influenza A(H5N1) Clade 2.3.4.4b Genotype D1.1 Virus across Flyway Regions, North America, Fall 2024.](https://pubmed.ncbi.nlm.nih.gov/42442739/)**  
-  Matthew Scotch, Temitope O C Faleye, Angelica Urquidez-Negrete, Arvind Varsani, Ann Fan, Anne Justice-Allen · Emerging infectious diseases · 2026-07-13  
-  _Research Relevance Score:_ `10.395`  
-  _Signals:_ Metagenomics / surveillance, Methods, Emerging threat  
-  _Highly pathogenic avian influenza clade 2.3.4.4b virus continues to circulate in North America and has caused severe human disease. That clade includes genotype D1.1, which became dominant in birds in late 2024. Recent phylodynamic reconstructions place D1.1 e…_
-- **[Polyclonal emergence of virulent, multidrug-resistant Edwardsiella tarda lineages associated with bacillary necrosis of Pangasius in striped catfish farms.](https://pubmed.ncbi.nlm.nih.gov/42274240/)**  
-  Trong-Tuong Ho, Phung-Hieu Diep, Vinh Q Tu, Khanh D N Ly, Nga P Le, Oanh T H Dang · Applied and environmental microbiology · 2026-06-11  
-  _Research Relevance Score:_ `9.959`  
-  _Signals:_ Methods, Emerging threat  
-  _Bacillary necrosis of Pangasius (BNP) is a recurrent bacterial disease that poses a major threat to Vietnam's striped catfish (Pangasianodon hypophthalmus) aquaculture industry. Although BNP has traditionally been attributed to Edwardsiella ictaluri, its etiol…_
-- **[Genomic characterization of CTX-M-55-producing Escherichia coli ST219 and ST1011 from wildlife in remote austral islands.](https://pubmed.ncbi.nlm.nih.gov/42492593/)**  
-  Montserrat Del Campo-Parod, Valentina Aravena-Ramírez, Ezequiel Hidalgo-Hermoso, Fredy Riquelme, María Valentina Martínez, Catalina Parragué-Migone · Journal of global antimicrobial resistance · 2026-07-23  
-  _Research Relevance Score:_ `8.278`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _Extended-spectrum β-lactamase (ESBL)-producing Escherichia coli are globally recognized priority pathogens and are increasingly detected in wildlife and remote ecosystems. To date, the southernmost wildlife reports of ESBL-producing E. coli have been restricte…_
-- **[Hidden in the community: poly-clonal spread of KPC- or NDM-producing Klebsiella pneumoniae revealed by whole-genome sequencing in Southeastern Brazil.](https://pubmed.ncbi.nlm.nih.gov/42474693/)**  
-  Carlos H Camargo, Taise C D M Barbosa, Amanda Y Yamada, Ana Beatriz N Costa, Daniel S Miranda, Pedro S P Ferraro · International microbiology : the official journal of the Spanish Society for Microbiology · 2026-07-20  
-  _Research Relevance Score:_ `2.652`  
-  _Carbapenemase-producing Klebsiella pneumoniae remains a major driver of multidrug resistance, traditionally linked to healthcare-associated infections but its detection in community-acquired infections represents a worrying shift. We aimed to characterize comm…_
+_No new items in this window._
 
-## Urban / built environment virome — 1 result(s)
+## Urban / built environment virome — 0 result(s)
 
-- **[Diversity and distinctive characteristics of the global RNA virome in urban and peri-urban environments.](https://pubmed.ncbi.nlm.nih.gov/42463489/)**  
-  Zihao Gao, Jun Wu, Alexander G Lucaci, Jian Ouyang, Lan Wang, Krista A Ryon · Nature communications · 2026-07-16  
-  _Research Relevance Score:_ `8.319`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _RNA viruses represent an integral component of human-associated environments and human health. However, the ecology of environmental RNA viruses remains largely unexplored. Here, we analyzed 2922 metatranscriptomic samples collected from urban and surrounding …_
+_No new items in this window._
 
 ## Wastewater / WBE viral surveillance — 0 result(s)
 
 _No new items in this window._
 
-## Pandemic preparedness & biosurveillance — 2 result(s)
+## Pandemic preparedness & biosurveillance — 0 result(s)
 
-- **[Revisiting Algorithms, Tools, and Applications for Sequence and Phylogenetic Analyses in the NGS-Based Omics Era.](https://pubmed.ncbi.nlm.nih.gov/42496932/)**  
-  Abhishek Kumar, Tikam Chand Dakal, Kayenat Parveen, Ravi Bhushan, Bhanupriya Dhabhai, Alisha Parveen · Biochemical genetics · 2026-07-24  
-  _Research Relevance Score:_ `14.436`  
-  _Signals:_ Viral evolution, Methods  
-  _Integrating high-throughput sequencing with phylogenetic analysis now spans everything from single genes to long-read pangenomes and metagenomes, yet practitioners still face fragmented, tool-centric guidance. This review revisits algorithms, tools, and workfl…_
-- **[metaWEPP: leveraging biobank-scale intra-species phylogenies for near-haplotype resolution in metagenomic analysis.](https://pubmed.ncbi.nlm.nih.gov/42488460/)**  
-  Pranav Gangwar, Qiwen Xu, Jaden Seangmany, Pratik Katte, Yatish Turakhia · NAR genomics and bioinformatics · 2026-07-22  
-  _Research Relevance Score:_ `10.819`  
-  _Signals:_ Viral evolution, Metagenomics / surveillance, Methods  
-  _Metagenomic sequencing is transforming diverse areas of health and biological sciences, including pathogen surveillance, clinical diagnostics, and microbiome research. However, the inherent complexity of metagenomic data limits most computational tools to spec…_
+_No new items in this window._
 
-## Atlases, compendia, reference resources — 15 result(s)
+## Atlases, compendia, reference resources — 0 result(s)
 
-- **[The population structure of Acinetobacter baumannii isolated from animals: an emerging zoonotic threat.](https://pubmed.ncbi.nlm.nih.gov/42294688/)**  
-  Xiangkuan Zheng, Peifan Liu, Xin Wang, Huanxin Fang, Haiyan Zhang, Shuang Zhang · Applied and environmental microbiology · 2026-06-15  
-  _Research Relevance Score:_ `10.086`  
-  _Signals:_ Metagenomics / surveillance, Methods, Emerging threat  
-  _To investigate the population structure of Acinetobacter baumannii in animals and the transmission pattern between humans and animals, we conducted a molecular epidemiological study by supplementing the data from poultry combined with data from 509 animal isol…_
-- **[Characterization of Emerging Pestalotiopsis Sensu Lato Causing Foliar Blights on Conifers in Taiwan and a Preliminary Assessment of Fungicide Susceptibility.](https://pubmed.ncbi.nlm.nih.gov/41408770/)**  
-  Yuan-Cheng Xu, Wen-Wei Hsiao, Cheng-Yi Yang, Chia-Ying Hsu, Sheng-Yu Hsu, Chieh-Yin Chen · Plant disease · 2026-07-16  
-  _Research Relevance Score:_ `9.619`  
+_No new items in this window._
+
+## Metagenomics benchmarking & pipelines — 1 result(s)
+
+- **[A tiered molecular surveillance framework linking rapid dengue detection to genomic epidemiology in Senegal.](https://pubmed.ncbi.nlm.nih.gov/42501817/)**  
+  Amy Gaye, Varun Vaidya, Mariama Toure, Ibrahima Mbaye Ndiaye, Sebastian Gallon, Mamadou Samb Yade · International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases · 2026-07-25  
+  _Research Relevance Score:_ `7.936`  
   _Signals:_ Methods, Emerging threat  
-  _Pestalotiopsis sensu lato species have gained attention as emerging primary pathogens on economically important crops, shifting from their previous roles as weak pathogens, saprobes, or endophytes. Coniferous trees in Taiwan have recently shown fungal infectio…_
-- **[Diversity and distinctive characteristics of the global RNA virome in urban and peri-urban environments.](https://pubmed.ncbi.nlm.nih.gov/42463489/)**  
-  Zihao Gao, Jun Wu, Alexander G Lucaci, Jian Ouyang, Lan Wang, Krista A Ryon · Nature communications · 2026-07-16  
-  _Research Relevance Score:_ `8.119`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _RNA viruses represent an integral component of human-associated environments and human health. However, the ecology of environmental RNA viruses remains largely unexplored. Here, we analyzed 2922 metatranscriptomic samples collected from urban and surrounding …_
-- **[Genome-resolved discovery of Candidatus Vitaminotrophota reveals carbon fixation and multi-vitamin biosynthetic potential in hot springs.](https://pubmed.ncbi.nlm.nih.gov/42443209/)**  
-  Yuan-Guo Xie, Xing-Ru Cao, Yan-Ling Qi, Lei Chen, Yan-Huan Mao, Yang Li · NPJ biofilms and microbiomes · 2026-07-13  
-  _Research Relevance Score:_ `8.095`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _Geothermal environments harbor abundant microbial diversity, yet rare lineages remain poorly resolved, limiting understanding of ecosystem function and evolutionary innovation under energy limitation. Here, we describe Candidatus Vitaminotrophota, a previously…_
-- **[Metagenomic analysis of water column samples collected from Green Canyon 233 prior to the Deepwater Horizon incident.](https://pubmed.ncbi.nlm.nih.gov/42312855/)**  
-  Shen Jean Lim, Luke R Thompson, Kelly Goodwin · Applied and environmental microbiology · 2026-06-18  
-  _Research Relevance Score:_ `7.907`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _The Gulf of Mexico/Gulf of America provides ecosystem services derived from marine biodiversity and oil and gas resources. Threats posed by unintended releases of oil and gas can be attenuated by microbial processes, necessitating the documentation of baseline…_
-- **[Blastocystis, an Enigmatic Parasite.](https://pubmed.ncbi.nlm.nih.gov/42440167/)**  
-  José Cebrián-Carmona, José Antonio Garrido-Cárdenas, Concepción Mesa-Valle · Acta parasitologica · 2026-07-13  
-  _Research Relevance Score:_ `7.895`  
+  _Arboviral surveillance in Africa is limited by fragmented diagnostic capacity and insufficient integration of molecular detection with genomic epidemiology, particularly in settings where dengue (DENV), Zika (ZIKV), and chikungunya (CHIKV) viruses co-circulate…_
+
+## ML for evolution & pathogens — 5 result(s)
+
+- **[Real-time holographic monitoring of insect cell morphology during baculovirus coinfection for adeno-associated virus vector production using machine learning-based classification models.](https://pubmed.ncbi.nlm.nih.gov/41707956/)**  
+  Mels Schrama, Damien Cabosart, Yves Daniel, Anouk Bakker, Linda A de Jong, Pranav Puri · New biotechnology · 2026-02-16  
+  _Research Relevance Score:_ `8.693`  
   _Signals:_ Methods, Emerging threat  
-  _Blastocystis spp. is the most prevalent human enteric protist, yet its clinical significance remains controversial. Currently recognized as a genetically diverse stramenopile with zoonotic potential, it comprises at least 42 subtypes, of which ST1-ST4 account …_
-- **[Unveiling two new species of Ganoderma (Ganodermataceae, Basidiomycota) causing basal stem rot on oil palm from India.](https://pubmed.ncbi.nlm.nih.gov/42498046/)**  
-  M Amrutha Lakshmi, Entaj Tarafder, M Indraja, B Kalyana Babu, Arns Subbanna, K Ramachandrudu · Microbial pathogenesis · 2026-07-24  
-  _Research Relevance Score:_ `5.986`  
-  _Signals:_ Methods  
-  _Ganoderma is a major fungal pathogen causing basal stem rot (BSR) in oil palm, leading to significant yield losses. Owing to high morphological plasticity and complex speciation within the genus, traditional taxonomic approaches have often been insufficient fo…_
-- **[Beneficial microbes isolated from the strawberry rhizosphere: development of growth-promoting and anthracnose-suppressive SynComs.](https://pubmed.ncbi.nlm.nih.gov/42469497/)**  
-  Xiaoyu He, Chunli Ling, Minghao Ma, Fangyuan Zhou, Xiaoqing Wu, Xinjian Zhang · World journal of microbiology & biotechnology · 2026-07-18  
-  _Research Relevance Score:_ `4.936`  
-  _Signals:_ Metagenomics / surveillance  
-  _Soil rhizosphere microorganisms play crucial roles in the regulation of plant growth and disease resistance. This study aimed to construct stable growth-promoting and anthracnose-suppressive synthetic microbial communities (SynComs) using beneficial microbes i…_
-- **[Report from the BV-BRC, CDC, NCBI, and NIAID Viral Sub-Species Classification Workshop.](https://pubmed.ncbi.nlm.nih.gov/42283465/)**  
-  Elliot J Lefkowitz, Wiriya Rutvisuttinunt, J Rodney Brister, Anna Capria, Eleanor S Click, Jason Caravas · Journal of virology · 2026-06-12  
-  _Research Relevance Score:_ `4.866`  
-  _Signals:_ Viral evolution  
-  _The Viral Sub-Species Classification Workshop, held from 8 to 10 April 2024 at the National Institute of Allergy and Infectious Diseases (NIAID), addressed scientific and technological challenges in the classification of viruses below the level of species. Co-…_
-- **[Vector-borne pathogen profiling and phylogeny of ticks infesting domestic dogs in Chad, Africa, using targeted next-generation sequencing and DNA barcoding.](https://pubmed.ncbi.nlm.nih.gov/42464363/)**  
-  Ian Kirimi Daniel, Maureen A Kelly, Rafael A N Ramos, Hassan Hakimi, Jobin Jose Kattoor, Rebecca P Wilkes · Parasites & vectors · 2026-07-16  
-  _Research Relevance Score:_ `4.719`  
-  _Signals:_ Emerging threat  
-  _Understanding the range of vectors and pathogen diversity in sub-Saharan Africa is crucial for efficient disease prevention and control efforts. Domestic dogs are susceptible to many vector-borne pathogens (VBPs) and serve as sentinels for several human pathog…_
-- **[Chemical Ecology of Willows (Salix L.): Ecological Roles, Evolutionary Dynamics, and Phytochemical Diversity.](https://pubmed.ncbi.nlm.nih.gov/42497308/)**  
-  Martin Volf, Priscila Mezzomo, Sofian A Renoult, Natascha D Wagner, Andrea Clavijo McCormick · Annals of botany · 2026-07-24  
-  _Research Relevance Score:_ `4.286`  
-  _Signals:_ Methods  
-  _The genus Salix comprises approximately 450 species that are known for rich and distinctive specialized chemistry, dominated by phenolic compounds such as salicinoids, flavonoids, and tannins, as well as diverse volatile organic compounds. These metabolites me…_
-- **[Rickettsia massiliae and its public health significance across Palearctic and Oriental regions: a scoping review.](https://pubmed.ncbi.nlm.nih.gov/42437957/)**  
-  Muhammad Kashif Obaid, Cai Yuchun, Shehla Shehla, Jin Luo, Takele Adugna Kassegn, Anwar Zaib Khan · Infectious diseases of poverty · 2026-07-13  
-  _Research Relevance Score:_ `4.195`  
-  _Signals:_ Methods  
-  _Arthropod including ticks, fleas, and lice have been found to be infected with Rickettsia massiliae, a pathogenic member of spotted fever group, causing rickettsiosis. This comprehensive scoping review summarize the known facts about its transmission, diagnost…_
-- **[Capsicum annuum RPW8 Confers Broad-Spectrum Resistance against Multiple Pathogens.](https://pubmed.ncbi.nlm.nih.gov/42418846/)**  
-  Moli Chu, Heting Hu, Xueyi Bai, Yu Wang, Guangyu Jiang, Li Liu · Journal of agricultural and food chemistry · 2026-07-08  
-  _Research Relevance Score:_ `4.155`  
-  _Signals:_ Methods  
-  _Pepper (Capsicum annuum) suffers substantial yield and quality losses caused by pathogens including Phytophthora capsici, Botrytis cinerea, and Ralstonia solanacearum. Although the atypical resistance protein RPW8 is recognized to confer disease resistance, it…_
-- **[DNA modifications of Durham Collection phages and promiscuity of GmrSD-family Type IV restriction enzyme BrxU.](https://pubmed.ncbi.nlm.nih.gov/42283481/)**  
-  Jennifer J Readshaw, Abigail Kelly, Yan-Jiun Lee, Giuseppina Mariano, Liam P Shaw, Peter R Weigele · Applied and environmental microbiology · 2026-06-12  
-  _Research Relevance Score:_ `3.966`  
-  _Signals:_ Methods  
-  _Bacteriophages (phages), viral predators of bacteria, are an attractive way to combat the rise of antimicrobial resistance. By infecting and killing bacteria, phages generate selection pressure for the evolution of defense systems. Successfully applying phages…_
-- **[Pangenomic and genomic plasticity analyses of the genus Rickettsia.](https://pubmed.ncbi.nlm.nih.gov/42496780/)**  
-  Paula Cristina de Magalhães, Andrei Giacchetto Felice, Siomar de Castro Soares · Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology] · 2026-07-24  
-  _Research Relevance Score:_ `2.586`  
-  _The Rickettsia genus comprises obligate intracellular bacteria transmitted by arthropods and responsible for clinically relevant zoonoses, rickettsioses, such as spotted fever and typhus. The difficulty of cultivating these bacteria in vitro reinforces the imp…_
-
-## Metagenomics benchmarking & pipelines — 25 result(s)
-
-- **[Revisiting Algorithms, Tools, and Applications for Sequence and Phylogenetic Analyses in the NGS-Based Omics Era.](https://pubmed.ncbi.nlm.nih.gov/42496932/)**  
-  Abhishek Kumar, Tikam Chand Dakal, Kayenat Parveen, Ravi Bhushan, Bhanupriya Dhabhai, Alisha Parveen · Biochemical genetics · 2026-07-24  
-  _Research Relevance Score:_ `14.336`  
-  _Signals:_ Viral evolution, Methods  
-  _Integrating high-throughput sequencing with phylogenetic analysis now spans everything from single genes to long-read pangenomes and metagenomes, yet practitioners still face fragmented, tool-centric guidance. This review revisits algorithms, tools, and workfl…_
-- **[metaWEPP: leveraging biobank-scale intra-species phylogenies for near-haplotype resolution in metagenomic analysis.](https://pubmed.ncbi.nlm.nih.gov/42488460/)**  
-  Pranav Gangwar, Qiwen Xu, Jaden Seangmany, Pratik Katte, Yatish Turakhia · NAR genomics and bioinformatics · 2026-07-22  
-  _Research Relevance Score:_ `10.719`  
-  _Signals:_ Viral evolution, Metagenomics / surveillance, Methods  
-  _Metagenomic sequencing is transforming diverse areas of health and biological sciences, including pathogen surveillance, clinical diagnostics, and microbiome research. However, the inherent complexity of metagenomic data limits most computational tools to spec…_
-- **[Freeze-Drying as a Novel Concentrating Method for Wastewater Detection of SARS-CoV-2.](https://pubmed.ncbi.nlm.nih.gov/42460892/)**  
-  Rui Dong, Elizabeth Noriega Landa, Hugues Ouellet, Wen-Yee Lee, Chuan Xiao · Environmental science & technology · 2026-07-16  
-  _Research Relevance Score:_ `10.269`  
-  _Signals:_ Metagenomics / surveillance, Methods, Emerging threat  
-  _Detecting viral RNA from wastewater has emerged as a cost-effective approach for community-level surveillance during the recent SARS-CoV-2 pandemic. Although various concentrating methods have been developed, none are optimal across all key requirements for wa…_
-- **[Exploration of viral diversity in Aedes mosquitoes employing different shotgun metagenomic data analysis pipelines.](https://pubmed.ncbi.nlm.nih.gov/42458473/)**  
-  Ekta Gupta, Shashi Sharma, Sachin Narayan Tikar, Paban Kumar Dash · Virology journal · 2026-07-15  
-  _Research Relevance Score:_ `10.261`  
-  _Signals:_ Metagenomics / surveillance, Methods, Emerging threat  
-  _Metagenomics or metaviromics is emerging as a powerful technology for pathogen surveillance and pandemic preparedness. Mosquitoes are important vectors for transmission of many emerging viruses responsible for numerous outbreaks. Monitoring mosquitoes becomes …_
-- **[Long-read metagenomics and methylation-based binning support the discovery of antibiotic resistance gene-host associations in complex communities.](https://pubmed.ncbi.nlm.nih.gov/42443941/)**  
-  Melina Markkanen, Heidi Putkuri, Dovydas Kičiatovas, Ville Mustonen, Marko Virta, Antti Karkman · Genome biology · 2026-07-13  
-  _Research Relevance Score:_ `10.145`  
-  _Signals:_ Metagenomics / surveillance, Emerging threat  
-  _Antibiotic resistance genes (ARGs) circulating among clinically relevant bacteria pose serious challenges to public health. Given the ancient and environmental bacterial origins of ARGs, a better understanding of the carriers of ARGs beyond the clinically most…_
-- **[MicroWorldOmics: All-in-one Desktop Solution for Microbiome Profiling, Virome Analysis, and Unexplored "Dark Matter" Discovery.](https://pubmed.ncbi.nlm.nih.gov/42475510/)**  
-  Runze Li, Wei Dong, Zhuang Yang, Mingjie Wang, Jinbo Xiong, Yu Ma · Genomics, proteomics & bioinformatics · 2026-07-20  
-  _Research Relevance Score:_ `9.802`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _The large amount of high-throughput sequencing data generated in ecology, medicine, and pharmacology has increased the complexity of data analysis and interpretation. However, the microbiome and virome fields still lack a user-friendly and programming-free des…_
-- **[Metagenomics for antimicrobial resistance: from resistome surveillance to mechanistic inference.](https://pubmed.ncbi.nlm.nih.gov/42447304/)**  
-  Jingyu Cao, Zheng Ye, Jiangang Pan · Journal of bacteriology · 2026-07-14  
-  _Research Relevance Score:_ `8.753`  
-  _Signals:_ Metagenomics / surveillance, Cancer evolution  
-  _Antimicrobial resistance (AMR) is a global health crisis shaped by complex ecological and evolutionary processes that often occur in polymicrobial communities. Metagenomics enables culture-independent profiling of microbial DNA directly from clinical or enviro…_
-- **[Artificial intelligence risk prediction model for common respiratory pathogens in China based on heterogeneous multi-source clinical and geographic data: A modeling study.](https://pubmed.ncbi.nlm.nih.gov/42479737/)**  
-  Hongyu Wang, Qianqian Zhang, Binhuang Sun, Dan Shen, Lingling Lu, Huan Li · PLOS digital health · 2026-07-21  
-  _Research Relevance Score:_ `7.911`  
-  _Signals:_ Methods, Emerging threat  
-  _Most respiratory pathogens exhibit distinct seasonal and periodic outbreak patterns driven by climatic factors. However, predictive models that jointly consider climate, air quality index (AQI), and socioeconomic variables are lacking. We retrospectively analy…_
-- **[Construction and validation of a phenotypic prediction model for bacterial gentamicin resistance using deep learning with gene sequences.](https://pubmed.ncbi.nlm.nih.gov/42454932/)**  
-  Jun Li, Siyan Xue, Lingxuan Hou, Zhixuan Zhang, Kaixuan Yuan, Xiaozhong Chen · Microbiology spectrum · 2026-07-15  
-  _Research Relevance Score:_ `7.861`  
-  _Signals:_ Methods, Emerging threat  
-  _The emergence of bacterial resistance to antibiotics poses a significant threat to human health; thus, there is an urgent need for new strategies in understanding the mechanisms of resistance and further fast prediction of it. Deep learning models offer promis…_
-- **[PhaBOX2: an enhanced web server for discovering and analyzing viral contigs in metagenomic data.](https://pubmed.ncbi.nlm.nih.gov/42023515/)**  
-  Jiayu Shang, Cheng Peng, Jiaojiao Guan, Dehan Cai, Donglin Wang, Yanni Sun · Nucleic acids research · 2026-07-11  
-  _Research Relevance Score:_ `5.829`  
-  _Signals:_ Methods  
-  _Metagenomic sequencing has transformed virus discovery; however, downstream bioinformatic analyses for viral identification, classification, and host prediction remain fragmented across multiple tools. Here, we present PhaBOX2, a major upgrade that extends the…_
-- **[MeLSI: Metric Learning for Statistical Inference in microbiome community composition analysis.](https://pubmed.ncbi.nlm.nih.gov/42370731/)**  
-  Nathan Bresette, Aaron C Ericsson, Carter Woods, Ai-Ling Lin · mSystems · 2026-06-29  
-  _Research Relevance Score:_ `5.736`  
-  _Signals:_ Methods  
-  _Microbiome beta diversity analysis relies on distance-based methods, including permutational multivariate analysis of variance (PERMANOVA) combined with fixed ecological distance metrics (Bray-Curtis, Euclidean, Jaccard, and UniFrac), which treat all microbial…_
-- **[Exploratory analysis of livestock waste treatment impacts on microbial diversity and antimicrobial resistance gene abundance.](https://pubmed.ncbi.nlm.nih.gov/42454926/)**  
-  Jade Davies, Jessica Ireland-Hughes, Silvia Stronati, Richard P Smith, Claire Oastler, Javier Nunez-Garcia · Microbiology spectrum · 2026-07-15  
-  _Research Relevance Score:_ `4.861`  
-  _Signals:_ Metagenomics / surveillance  
-  _The potential spread of antimicrobial resistance (AMR) through agricultural waste is underexplored and may contribute to the dissemination of AMR genes into the environment. This pilot study used metagenomic sequencing to investigate how anaerobic digestion (A…_
-- **[The Metaproteomics Initiative: five years of community-driven progress.](https://pubmed.ncbi.nlm.nih.gov/42493801/)**  
-  Tim Van Den Bossche, Lucia Grenga, Gelio Alves, Magnus Ø Arntzen, Dirk Benndorf, Madita Brauer · Microbiome · 2026-07-23  
-  _Research Relevance Score:_ `4.228`  
-  _Signals:_ Methods  
-  _The Metaproteomics Initiative was officially launched in 2021 to strengthen collaboration, promote knowledge exchange, and support and lead standardization efforts within the growing metaproteomics community. Over the past 5 years, the Initiative has developed…_
-- **[In silico identification and biophysical characterization of candidate antimicrobial peptides from the Indian marine microbiome targeting multidrug-resistant ESKAPE pathogens.](https://pubmed.ncbi.nlm.nih.gov/42485280/)**  
-  Sreelakshmi K V, Nasri Thaha, Budheswar Dehury · PloS one · 2026-07-22  
-  _Research Relevance Score:_ `4.219`  
-  _Signals:_ Methods  
-  _The global health crisis of antimicrobial resistance necessitates the discovery of new antibacterial agents. Underexplored marine microbiomes, particularly from the biodiverse Indian coast, represent a rich potential source of antimicrobial peptides (AMPs). Ta…_
-- **[From sequence space to ecological function: microbiome-derived antimicrobial peptides as community effectors and therapeutic leads.](https://pubmed.ncbi.nlm.nih.gov/42483952/)**  
-  Linda Boniface Oyama · Essays in biochemistry · 2026-07-22  
-  _Research Relevance Score:_ `4.219`  
-  _Signals:_ Methods  
-  _Antimicrobial peptide research has long centred on host defence molecules, yet microbiomes themselves encode a diverse and increasingly important repertoire of peptide-based antimicrobials. These microbiome-derived antimicrobial peptides include bacteriocins, …_
-- **[Masking recurrent contaminants in reference sequences improves specificity of clinical metagenomic sequencing.](https://pubmed.ncbi.nlm.nih.gov/42474352/)**  
-  Judith Bergada-Pijuan, Ian Pichler, Maryam Zaheri, Verena Kufner, Michael Huber · Journal of clinical microbiology · 2026-07-20  
-  _Research Relevance Score:_ `4.202`  
-  _Signals:_ Methods  
-  _Viral metagenomic next-generation sequencing (mNGS) is a powerful approach for pathogen detection in clinical diagnostics; however, accurate virus identification depends critically on the quality of reference databases. Diagnostic specificity is frequently com…_
-- **[Conditional superiorities and unaddressed bottlenecks: a critical review of artificial intelligence for waterborne microbial detection.](https://pubmed.ncbi.nlm.nih.gov/42467233/)**  
-  Weiqi Liu, Qiang Tang, Min Shen, Lin Zhang, Xu Jia · Applied microbiology and biotechnology · 2026-07-17  
-  _Research Relevance Score:_ `4.177`  
-  _Signals:_ Methods  
-  _Although conventional microbial detection approaches for water samples are widely applied, they still suffer from prolonged assay durations (24-72 h), low sensitivity, and the absence of real-time monitoring capacity. Artificial intelligence (AI) has demonstra…_
-- **[Metabolic Reprogramming and Taxonomic Drivers in Bacterial Vaginosis: A Large-Scale Metagenomic Meta-Analysis.](https://pubmed.ncbi.nlm.nih.gov/42492757/)**  
-  Mehmet Demirci · Anaerobe · 2026-07-23  
-  _Research Relevance Score:_ `2.528`  
-  _Bacterial vaginosis (BV) represents a profound ecological shift from a Lactobacillus-dominated microbiota to a diverse polymicrobial biofilm associated with adverse outcomes. While taxonomic signatures are well-documented, the functional mechanisms driving thi…_
-- **[Uneven global coverage of halophilic metagenomes limits comparative analyses of microbial adaptation to saline environments.](https://pubmed.ncbi.nlm.nih.gov/42484695/)**  
-  Camila de Souza Vieira, Leandro Nascimento Lemos, Daniel Kumazawa Morais, Alexandre Soares Rosado, Victor Satler Pylro · Brazilian journal of microbiology : [publication of the Brazilian Society for Microbiology] · 2026-07-22  
-  _Research Relevance Score:_ `2.519`  
-  _Halophilic microorganisms are central to biotechnology, bioremediation, and astrobiology because they persist under extreme and polyextreme conditions analogous to extraterrestrial environments. Although metagenomics has transformed the study of halophilic bio…_
-- **[Comparative Metabolomics Reveals the Production of Sulfated Metabolites by Human Gut Bacteria.](https://pubmed.ncbi.nlm.nih.gov/42476558/)**  
-  Gabriel D D'Agostino, Cecilia H Kim, Jinseok Park, Yancong Zhang, Bashar Amer, Eric A Franzosa · Journal of the American Chemical Society · 2026-07-20  
-  _Research Relevance Score:_ `2.502`  
-  _The sulfated metabolome─the collection of sulfate-containing metabolites─is an emerging source of structurally unique bioactive compounds that influence metabolism, immune responses, and neurological function. Recent studies have shown that, in addition to hos…_
-- **[Clinical impact of 16S rRNA RC-PCR NGS on infectious disease management.](https://pubmed.ncbi.nlm.nih.gov/42439573/)**  
-  Merlijn H I van Haren, Lieke Ten Have, Pieter D Koopman, Jochem B Buil, Ianthe Maat, Janette C Rahamat-Langendoen · Microbiology spectrum · 2026-07-13  
-  _Research Relevance Score:_ `2.445`  
-  _16S rRNA metagenomics provides a culture-independent method for diagnosing infections with fastidious or uncultivable organisms, guiding targeted therapy, and detecting polymicrobial communities. This study utilizes reverse complement (RC)-PCR next-generation …_
-- **[Effects of elexacaftor/tezacaftor/ivacaftor on the nasal microbial metagenome in cystic fibrosis.](https://pubmed.ncbi.nlm.nih.gov/42439510/)**  
-  Tom L Hertramph, Marie Dorda, Sophia T Pallenberg, Annette Sauer-Heilborn, Felix C Ringshausen, Matthias Steglich · Microbiology spectrum · 2026-07-13  
-  _Research Relevance Score:_ `2.445`  
-  _Mutation-specific cystic fibrosis (CF) transmembrane conductance regulator (CFTR) modulator therapy with elexacaftor/tezacaftor/ivacaftor (ETI) has dramatically improved clinical outcomes for people with CF (pwCF), yet its impact on the nasal microbial metagen…_
-- **[Development of a Microdroplet-Based Functional Genomic Screening Pipeline by Combination of DNA Nanoflowers and PURExpress Cell-Free Expression.](https://pubmed.ncbi.nlm.nih.gov/42438180/)**  
-  Joan Castells-Ballester, Abigail Taron, Madison Smith, Rebecca Gawron, Julie Beaulieu, Olta Papa · ACS synthetic biology · 2026-07-12  
-  _Research Relevance Score:_ `2.437`  
-  _We present a microfluidic workflow that couples reconstituted in vitro transcription-translation (IVTT) with ultrahigh-throughput droplet screening to directly link genotype and phenotype within complex, heterogeneous DNA pools. The approach employs DNA nanofl…_
-- **[HERA: a web server for host element reference-based aligner.](https://pubmed.ncbi.nlm.nih.gov/42130477/)**  
-  Leidy-Alejandra G Molano, Pascal Hirsch, Andreas Keller, Monika Dolejska, Jana Palkovicova · Nucleic acids research · 2026-07-11  
-  _Research Relevance Score:_ `2.429`  
-  _Plasmids play a central role in bacterial adaptation and in the dissemination of antimicrobial resistance, driving a growing need for accessible tools that support their comparative analysis without requiring local computational infrastructure. Although severa…_
-- **[Differential co-occurrence analysis: a method to extract ecological modules from clinical microbiome data.](https://pubmed.ncbi.nlm.nih.gov/42262136/)**  
-  J Iacovacci, N Cannon, J A McCulloch, T Rancati, G Trinchieri · mSystems · 2026-06-09  
-  _Research Relevance Score:_ `2.196`  
-  _The human microbiota plays a pivotal role in health, with widespread alterations implicated in conditions ranging from inflammatory disorders to cancer. While correlation-based network analyses have illuminated ecological interactions within these communities,…_
-
-## ML for evolution & pathogens — 25 result(s)
-
-- **[EscaPRRS-ORF5: A Structure-Aware Evolutionary Framework for Prioritizing Immune Escape-Prone Variants in Porcine Reproductive and Respiratory Syndrome Virus.](https://pubmed.ncbi.nlm.nih.gov/42489519/)**  
-  Vaishnavey S R, Supantha Dey, Sakib Ferdous, Riza Danurdoro, Michael A Zeller, Ratul Chowdhury · Bioinformatics (Oxford, England) · 2026-07-23  
-  _Research Relevance Score:_ `10.878`  
-  _Signals:_ Viral evolution, Methods  
-  _Porcine Reproductive and Respiratory Syndrome Virus (PRRSV) is a rapidly evolving RNA virus causing significant economic losses, posing a formidable challenge to vaccine efficacy due to its high mutational variability and immune escape. As the viral mutants ev…_
-- **[Double deletion mutation induced active site remodelling modulates substrate specificity in KPC-14 β-lactamase.](https://pubmed.ncbi.nlm.nih.gov/42492715/)**  
-  Lin Gao, Jaeyin Yoo, Enus Fina, Jing Gu, Florencia Brunetti, Pablo Power · International journal of biological macromolecules · 2026-07-23  
-  _Research Relevance Score:_ `10.478`  
-  _Signals:_ Viral evolution, Methods, Emerging threat  
-  _The emergence of KPC variants with altered substrate profiles poses a major challenge for β-lactam antibiotic therapy. KPC-14, which contains a double deletion of residues G242 and T243 (Y241_ΔGT_A244), exhibits enhanced resistance to ceftazidime and ceftazidi…_
-- **[Integrated Genome-Wide Association Study and Machine Learning Approach for Characterizing the Determinants of Biofilm Formation in Staphylococcus aureus.](https://pubmed.ncbi.nlm.nih.gov/42498890/)**  
-  Lydia R Sidarous, Mostafa S Ibrahim, Mohamed Elhadidy, Alaa Abouelfetouh, Nehal A Saif, Nirmeen Aboelnaga · Interdisciplinary sciences, computational life sciences · 2026-07-24  
+  _The baculovirus expression vector system (BEVS) is a scalable platform used to produce recombinant adeno-associated virus vectors (rAAV) in insect cells. A major challenge in this system is reducing the formation of empty rAAV capsids, which do not contain vec…_
+- **[Integrated multi-omics analysis suggests a potential mechanism of DEHP-induced monocyte infiltration in MASH via the FOS-CCL3/4 axis.](https://pubmed.ncbi.nlm.nih.gov/42501686/)**  
+  Chaojie Wang, Zhihao Zhang, Yuqing Huang, Yandan Shi, Peng Lei · Ecotoxicology and environmental safety · 2026-07-25  
   _Research Relevance Score:_ `8.086`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _Staphylococcus aureus (S. aureus) is a well-recognized pathogen known for its multi-drug resistance and diverse virulence mechanisms. Its ability to grow biofilms on implanted medical devices enhances its antimicrobial resistance (AMR) and virulence. Despite i…_
-- **[Artificial intelligence-based methods and applications in clinical and diagnostic microbiology: Current challenges and future perspectives.](https://pubmed.ncbi.nlm.nih.gov/42492779/)**  
-  Derya Karataş Yeni, Deniz Güven, Fatih Büyük, Muhammed Can Gökmen · Journal of microbiological methods · 2026-07-23  
-  _Research Relevance Score:_ `8.078`  
-  _Signals:_ Metagenomics / surveillance, Methods  
-  _Microbiology laboratories play a critical role in the diagnosis and management of infectious diseases. However, recent advancements aimed at reducing human workload and minimizing time loss are gaining popularity. Artificial intelligence (AI) technologies, par…_
-- **[Physicochemical fingerprinting reveals convergent evolutionary determinants of enterovirus A71 neurovirulence through integrative machine learning and structural analysis.](https://pubmed.ncbi.nlm.nih.gov/42486368/)**  
-  Xiaoqian Wang, Feng Li · Virus research · 2026-07-22  
-  _Research Relevance Score:_ `6.864`  
-  _Signals:_ Methods  
-  _Enterovirus A71 (EV-A71) causes hand, foot, and mouth disease and can trigger life-threatening neurological complications, yet the sequence-level physicochemical correlates of CNS involvement across globally circulating lineages remain incompletely defined. He…_
-- **[Broad-coverage targeted lipidomics reveals stage-specific lipid metabolic profiles and diagnostic and prognostic marker panels in ischemic stroke.](https://pubmed.ncbi.nlm.nih.gov/42493655/)**  
-  Haoran Huang, Liu Liu, Can Zhao, Shuying Cheng, Wenxuan Li, Anbao Xu · Metabolomics : Official journal of the Metabolomic Society · 2026-07-23  
-  _Research Relevance Score:_ `5.878`  
-  _Signals:_ Methods  
-  _Ischemic stroke (IS) is a major cause of mortality and disability globally, with challenges in early diagnosis and prognosis prediction. Dysregulated lipid metabolism is key to IS pathophysiology, but comprehensive profiling of lipid changes during disease pro…_
-- **[Can machine learning uncover viable non-platinum catalysts for hydrogen evolution? An unsupervised clustering approach to transition metal-ligand complexes.](https://pubmed.ncbi.nlm.nih.gov/42488816/)**  
-  Achouak Benarbia, Ali Alshami, Ayyaz Mustafa, Olusegun Stanley Tomomewo · RSC advances · 2026-07-22  
-  _Research Relevance Score:_ `5.869`  
-  _Signals:_ Methods  
-  _Hydrogen is central to the global clean energy transition, yet the widespread use of green hydrogen is constrained by its dependence on costly, supply-limited platinum-based catalysts in Proton Exchange Membrane (PEM) electrolyzers. While alternatives have bee…_
-- **[Relation-Aware Pretraining and Reaction Center Modeling for Chemical Reaction Graph Representation Learning.](https://pubmed.ncbi.nlm.nih.gov/42487241/)**  
-  Jianbo Qiao, Kefei Li, Junru Jin, Ding Wang, Wenjia Gao, Shaoye Zhang · Journal of chemical theory and computation · 2026-07-22  
-  _Research Relevance Score:_ `5.869`  
-  _Signals:_ Methods  
-  _Learning informative representations of chemical reactions is crucial for advancing synthesis-related downstream tasks, such as reaction condition prediction and yield prediction. However, existing models often struggle to simultaneously capture the global rea…_
-- **[Transforming blood-derived episignatures into cell-type-agnostic classifiers: A shortcut to prenatal episignatures.](https://pubmed.ncbi.nlm.nih.gov/42492524/)**  
-  Nikola Reko, Arteen Torabi-Marashi, Prajkta Kallurkar, Sarah J Goodman, Zain Awamleh, Andrei L Turinsky · American journal of human genetics · 2026-07-23  
-  _Research Relevance Score:_ `5.078`  
-  _Signals:_ Viral evolution  
-  _DNA methylation (DNAm) episignatures are stable disorder-specific epigenetic patterns that serve as valuable biomarkers for assessing variant pathogenicity and phenotypic outcomes in neurodevelopmental disorders (NDDs). However, episignatures derived from whol…_
-- **[VN1K is a pangenome-informed multi-omics and phenomics resource for the Vietnamese population.](https://pubmed.ncbi.nlm.nih.gov/42486871/)**  
-  Trang T H Tran, Tham H Hoang, Mai H Tran, Tien M Pham, Nam N Nguyen, Giang M Vu · Nature communications · 2026-07-22  
-  _Research Relevance Score:_ `5.069`  
-  _Signals:_ Viral evolution  
-  _The population of Vietnam remains underrepresented in global genomic databases. Here, we present VN1K, a resource of multi-omics and phenotypic information for 1011 unrelated Vietnamese individuals. We present high-depth short-read whole-genome sequencing data…_
-- **[A bibliometric analysis of global trends in AI-driven digital health technologies for diabetes management.](https://pubmed.ncbi.nlm.nih.gov/42499048/)**  
-  Jingwen Song, Wenli Tao, Di Zhou, Xuanbin Li, Sijing Peng, Chunyan Li · Medicine · 2026-07-24  
+  _Signals:_ Cancer evolution, Methods  
+  _Di-(2-ethylhexyl) phthalate (DEHP) is a widespread environmental obesogen; however, its immune-proinflammatory mechanisms in the progression of metabolic dysfunction-associated steatohepatitis (MASH) remain incompletely elucidated. This study aims to comprehen…_
+- **[CO Oxidation Catalysis Decoded: An Electronic Structure Descriptor Perspective.](https://pubmed.ncbi.nlm.nih.gov/42502189/)**  
+  Zhan Cao, Xurui Li, Zixiang Xing, Qingtao Wang, Feng Feng, Chunshan Lu · Small (Weinheim an der Bergstrasse, Germany) · 2026-07-25  
   _Research Relevance Score:_ `4.186`  
   _Signals:_ Methods  
-  _Digital health technologies are increasingly applied in diabetes care, enabling continuous monitoring, personalized support and remote interventions. Meanwhile, artificial intelligence (AI) is enhancing the precision and effectiveness of these tools. This stud…_
-- **[Spatiotemporal evolution of global soil heavy metal(loid)s mobility under climate change.](https://pubmed.ncbi.nlm.nih.gov/42498113/)**  
-  Wenqi Jiao, Jiayi Luo, Mengting Wu, Tao Hu, Chongchong Qi · Environmental pollution (Barking, Essex : 1987) · 2026-07-24  
+  _Carbon monoxide (CO) catalytic oxidation, as one of the most extensively studied model reactions, serves as a critical platform for understanding how electronic structures determine catalytic performance. Although descriptors such as CO adsorption energy are w…_
+- **[An Adaptive Spatiotemporal Graph Transformer for Multi-Site PM2.5 Multi-Step Forecasting with Non-stationary and Sparse-Aware Method.](https://pubmed.ncbi.nlm.nih.gov/42501626/)**  
+  Yidi Shi, Jun Yang, Dunwang Qin · Journal of environmental management · 2026-07-25  
   _Research Relevance Score:_ `4.186`  
   _Signals:_ Methods  
-  _The persistent accumulation of heavy metal(loid)s (HMs) in soils poses a major risk to environmental quality worldwide, while their migration and transformation are strongly regulated by climate change. However, global-scale assessments of soil HMs mobility an…_
-- **[Vegetation restoration regulates soil carbon sequestration and erosion control in the Mu Us Sandy Land: Non-linear tipping points and driving mechanism shift (2000-2020).](https://pubmed.ncbi.nlm.nih.gov/42497743/)**  
-  Zhaoquan He, Xue Shang, Xiukang Wang, Yingying Xing, Xiaoze Jin · Journal of environmental management · 2026-07-24  
-  _Research Relevance Score:_ `4.186`  
-  _Signals:_ Methods  
-  _Clarifying the cascading responses of soil carbon sinks and surface protection functions driven by vegetation restoration during the dryland desertification reversal process is crucial for precise regional ecological management. Focusing on the Mu Us Sandy Lan…_
-- **[Model-Guided Optimization of a Low-Serum Medium for Madin-Darby Canine Kidney Cells Using a Kolmogorov-Arnold Network and Bayesian Optimization.](https://pubmed.ncbi.nlm.nih.gov/42490010/)**  
-  Mengting Zhang, Juntao Wang, Lei Zhou, Jianmin Chen, Qilei Liu, Qingwei Meng · Applied biochemistry and biotechnology · 2026-07-23  
-  _Research Relevance Score:_ `4.178`  
-  _Signals:_ Methods  
-  _Madin-Darby canine kidney (MDCK) cells are important hosts for cell culture-based viral vaccine production, but fetal bovine serum (FBS) supplementation increases cost, batch variability, adventitious-agent risk, and regulatory burden. This study developed a 2…_
-- **[Energetically Anchored Machine-Learning Interatomic Potential Embeddings for Reliable Hydrogen Evolution Electrocatalyst Prediction.](https://pubmed.ncbi.nlm.nih.gov/42489590/)**  
-  Ching Lin, Po-Wen Chen, Tien-Hsiang Hsueh · Journal of chemical information and modeling · 2026-07-23  
-  _Research Relevance Score:_ `4.178`  
-  _Signals:_ Methods  
-  _Reliable prediction of hydrogen adsorption free energy (ΔGH) is essential for accelerating electrocatalyst discovery for the alkaline hydrogen evolution reaction (HER), yet practical machine-learning workflows remain limited by inconsistent energetic definitio…_
-- **[Mapping the knowledge landscape and research trends of artificial intelligence in breast cancer diagnosis and treatment: A bibliometric analysis.](https://pubmed.ncbi.nlm.nih.gov/42489548/)**  
-  Cong Wang, Ke Hong, Yu Ying, Yanlei Xu, Chang Yao · Technology and health care : official journal of the European Society for Engineering and Medicine · 2026-07-23  
-  _Research Relevance Score:_ `4.178`  
-  _Signals:_ Methods  
-  _BackgroundArtificial intelligence (AI) has generated rapidly growing research in breast cancer diagnosis and treatment, yet its intellectual structure, collaboration patterns, and thematic evolution remain unmapped.ObjectiveTo analyze the global research lands…_
-- **["Hermeneutic burden" and clinical responsibility: a response to Sparrow et al. on explanation and machine learning.](https://pubmed.ncbi.nlm.nih.gov/42487057/)**  
-  Jonathan Adams · Monash bioethics review · 2026-07-23  
-  _Research Relevance Score:_ `4.178`  
-  _Signals:_ Methods  
-  _This paper critically reviews Sparrow et al.'s notion of the "hermeneutic burden" placed upon clinicians by the demand for explainable artificial intelligence (XAI) in the context of adaptive machine learning (ML) systems. While Sparrow et al. highlight import…_
-- **[Multiomics and artificial intelligence identify infection associated subtypes and prognostic signatures in hepatocellular carcinoma.](https://pubmed.ncbi.nlm.nih.gov/42495152/)**  
-  Peng Wang, Jiayan Fang, Wenna Zhao, Yijuan Huang · 3 Biotech · 2026-07-22  
-  _Research Relevance Score:_ `4.169`  
-  _Signals:_ Methods  
-  _Hepatocellular carcinoma (HCC) remains a major global health burden with persistently high morbidity and mortality. Dysregulation of the tumor microenvironment (TME) associated with chronic hepatitis B virus (HBV)/hepatitis C virus (HCV) infection and inflamma…_
-- **[A bibliometric analysis of artificial intelligence applications to schizophrenia research (2005 - 2025).](https://pubmed.ncbi.nlm.nih.gov/42492359/)**  
-  Geng Zhu, Yuqing Zhou, Bin Li · Psychiatry research · 2026-07-20  
-  _Research Relevance Score:_ `4.152`  
-  _Signals:_ Methods  
-  _Artificial intelligence (AI) has been increasingly applied in schizophrenia research, yet a bibliometric overview of its global development and evolutionary trends remains lacking. Based on the Web of Science Core Collection (WoSCC), a bibliometric analysis wa…_
-- **[The Evolution of Clinical Research Ethics: From Historical Abuses to Contemporary Challenges.](https://pubmed.ncbi.nlm.nih.gov/42487601/)**  
-  Ravindra Waykar, Yogesh A Kulkarni · Reviews on recent clinical trials · 2026-07-13  
-  _Research Relevance Score:_ `4.095`  
-  _Signals:_ Methods  
-  _Ethical standards are crucial in contemporary clinical research. The requirements with which researchers comply are a result of the long history of abuses and attempts to find solutions that eventually led to the introduction of a consistent ethical framework …_
-- **[On-chip electrocatalytic microcells for high-throughput experimentation of electrocatalysts.](https://pubmed.ncbi.nlm.nih.gov/42491522/)**  
-  Zerui Liu, Junxin Tao, Guojun Ou, Rui Cao, Chengyu Liu, Lin Jiang · iScience · 2026-06-30  
-  _Research Relevance Score:_ `3.994`  
-  _Signals:_ Methods  
-  _On-chip electrocatalytic microcells (OCEMs) integrate working electrodes, reaction windows, and signal readout, offering structurally controllable and electronically addressable platforms with potential for high-throughput electrocatalysis. OCEMs enable precis…_
-- **[Investigating LST evolution and heatwave patterns using machine learning in the Beijing-Tianjin-Hebei Urban agglomeration.](https://pubmed.ncbi.nlm.nih.gov/42491888/)**  
-  Chen Liu, Maomao Zhang · iScience · 2026-06-26  
-  _Research Relevance Score:_ `3.964`  
-  _Signals:_ Methods  
-  _Rapid urbanization and persistent climate warming are jointly intensifying summer thermal risks in large urban agglomerations, with increasingly pronounced coupling between daytime heat exposure and insufficient nighttime cooling. Using MODIS land surface temp…_
-- **[Assessment and prediction of driving risk at tunnel entrance and exit sections on mountainous roads.](https://pubmed.ncbi.nlm.nih.gov/42490756/)**  
-  Yunwei Meng, Xu An, Chuanting Ren, Binbin Li, Changhua Wang, Keyi Wang · Traffic injury prevention · 2026-07-23  
-  _Research Relevance Score:_ `2.478`  
-  _To investigate the spatial evolution of driving visual load under different road alignment conditions and its relationship with driving risk at tunnel entrance and exit sections on mountainous two-lane roads, and to develop an integrated framework for risk ass…_
-- **[Metagenomic screening of antimicrobial peptide candidates and isolation of two active peptides from bat gut bacteria.](https://pubmed.ncbi.nlm.nih.gov/42489979/)**  
-  Zishun Zhao, Yanhui Zhao, Ying Sun, Yongli Bao, Jiang Feng, Tinglei Jiang · World journal of microbiology & biotechnology · 2026-07-23  
-  _Research Relevance Score:_ `2.478`  
-  _Bacterial antibiotic resistance has intensified the need to identify new antimicrobial molecules from underexplored microbial systems. Wild mammalian gut microbiota may harbor antimicrobial peptide (AMP) candidates and candidate bacteriocins, but these systems…_
-- **[Enzyme-Inspired Design of Well-Defined Dual-Metal-Site Pairs Confined within Metal-Organic Frameworks for Tailoring Photocatalytic Microenvironments.](https://pubmed.ncbi.nlm.nih.gov/42489048/)**  
-  Zongyang Liu, Zhuang Yan, Caoyu Yang, Qinbai Yun, Yuxin Zhang, Xiaomei Hu · Journal of the American Chemical Society · 2026-07-23  
-  _Research Relevance Score:_ `2.478`  
-  _Activity-selectivity trade-off remains a grand challenge and crucial issue in artificial photosynthesis. As for the natural enzyme system, bimetallic clusters confined in protein-folding chains enable regulating the activity-selectivity equilibrium for photosy…_
+  _Fine particulate matter (PM2.5) concentration is a critical indicator of air quality and is closely related to human health and ecological environments. Accurate multi-site PM2.5 forecasting still faces considerable challenges: PM2.5 exhibits non-stationary di…_
+- **[Nonlinear Associations and Spatiotemporal Responses between the Evolution of Blue-Green Space Landscape Patterns and Water-Environment Health in Highly Urbanized Plain River-Network Regions: A Case Study of Suzhou City, China.](https://pubmed.ncbi.nlm.nih.gov/42501936/)**  
+  Chen Xu, Shuxian Miao, LinYu Chen, Xun Zhang, Shaobo Long, Zihao Guo · Environmental research · 2026-07-25  
+  _Research Relevance Score:_ `2.486`  
+  _Under rapid urbanization, the blue-green space configurations of plain river-network cities are undergoing continuous restructuring, profoundly affecting water-environment health by regulating runoff pathways, pollutant transport, and aquatic self-purification…_
