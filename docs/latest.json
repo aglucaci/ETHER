@@ -1,10 +1,10 @@
 {
-  "generated_at_local": "2026-09-04 16:37:55",
-  "generated_at_utc": "2026-09-04 16:38:06",
+  "generated_at_local": "2026-09-05 15:40:18",
+  "generated_at_utc": "2026-09-05 15:40:27",
   "days": 1,
   "window_utc": {
-    "mindate": "2026/09/03",
-    "maxdate": "2026/09/04"
+    "mindate": "2026/09/04",
+    "maxdate": "2026/09/05"
   },
   "ranking": "research_relevance_score(topic_priority + research_signal + source_metadata + recency + cross_domain)",
   "signal_ontology": {
@@ -121,34 +121,8 @@
     {
       "label": "Cancer evolution & somatic selection",
       "query": "(((\"cancer evolution\" OR \"tumor evolution\" OR \"somatic evolution\" OR \"clonal evolution\") AND (genomics OR sequencing OR phylogen* OR \"single-cell\")) OR ((cancer OR tumor OR lymphoma OR leukemia) AND (\"positive selection\" OR \"clonal selection\" OR \"driver mutation\" OR \"dN/dS\" OR \"selection inference\")) OR ((\"mutational signature\" OR \"mutational signatures\") AND (cancer OR tumor) AND (evolution OR selection OR phylogeny))) AND (\"computational evolutionary biology\" OR \"molecular evolution\" OR phylogenomics OR phylodynamics OR HyPhy OR \"codon model\") NOT (case report OR randomized OR psychology)",
-      "count": 1,
-      "items": [
-        {
-          "pmid": "42160138",
-          "title": "RAS Pathway Activation and Microenvironmental Adaptation as Hallmarks of Myeloid Sarcoma.",
-          "authors": "Bettina Nadorp, Audrey Lasry, Sanam Loghavi, Ravi Patel, Hager Mansour, Pier Edoardo Rovatti",
-          "journal": "Blood cancer discovery",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42160138/",
-          "abstract_snippet": "Myeloid sarcoma, an aggressive extramedullary subtype of acute myeloid leukemia (AML), occurs in approximately 20% of patients and remains strikingly understudied in large-scale genomic and multiomic investigations. The key drivers of its tumor evolution are l…",
-          "score": 7.485,
-          "score_components": {
-            "theme_priority": 1.2,
-            "research_signal": 4.8,
-            "venue": 0.0,
-            "recency": 1.485,
-            "cross_domain": 0.0
-          },
-          "signal_components": {
-            "cancer_evolution": 4.8
-          },
-          "signal_classes": [
-            "Cancer evolution"
-          ],
-          "theme": "Cancer evolution & somatic selection"
-        }
-      ]
+      "count": 0,
+      "items": []
     },
     {
       "label": "Recombination & mosaicism",
@@ -183,23 +157,29 @@
     {
       "label": "Atlases, compendia, reference resources",
       "query": "(((atlas OR database OR compendium OR \"reference catalog\" OR resource) AND (virome OR microbiome OR pathogen)) OR ((\"large-scale\" OR global) AND (virome OR microbiome) AND (metadata OR harmonization))) AND (\"computational evolutionary biology\" OR \"molecular evolution\" OR phylogenomics OR phylodynamics OR HyPhy OR \"codon model\") NOT (case report OR randomized OR psychology)",
+      "count": 0,
+      "items": []
+    },
+    {
+      "label": "Metagenomics benchmarking & pipelines",
+      "query": "((metagenomics AND (benchmark* OR pipeline OR \"best practices\" OR reproducible OR workflow)) OR ((Kraken2 OR MetaPhlAn OR Bracken OR Centrifuge OR Kaiju) AND (benchmark* OR evaluation))) AND (benchmark* OR workflow OR pipeline OR Snakemake OR Nextflow OR WDL) NOT (case report OR randomized OR psychology)",
       "count": 1,
       "items": [
         {
-          "pmid": "42690043",
-          "title": "Comparative genomic analysis reveals distinct population structure in Legionella anisa.",
-          "authors": "Maria Najeeb, Sara Matthews, Michele Prévost, Sebastien P Faucher",
-          "journal": "FEMS microbiology letters",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42690043/",
-          "abstract_snippet": "Legionella anisa has been frequently isolated from engineered water systems; however, its population structure remains understudied compared to Legionella pneumophila. Here, we generated complete genome sequences for four L. anisa isolates recovered from a hea…",
-          "score": 4.285,
+          "pmid": "42697290",
+          "title": "Extremozymes for food fermentation: Integrating AI, metagenomics, and protein engineering.",
+          "authors": "Subuhi Kashif Ansari, Nusrat Hamid Shah, Noureddine Elboughdiri, Anis Ahmad Chaudhary, Mohamed A M Ali, Atif Khurshid Wani",
+          "journal": "International journal of biological macromolecules",
+          "pubdate": "2026-09-04",
+          "pubdate_utc": "2026-09-04T00:00:00+00:00",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42697290/",
+          "abstract_snippet": "Climate change-induced fluctuations in temperature, pH, salinity, and water activity are increasingly compromising microbial metabolism and fermentation efficiency, exposing the limitations of conventional mesophilic enzymes in maintaining process stability an…",
+          "score": 4.236,
           "score_components": {
-            "theme_priority": 1.1,
+            "theme_priority": 1.05,
             "research_signal": 1.7,
             "venue": 0.0,
-            "recency": 1.485,
+            "recency": 1.486,
             "cross_domain": 0.0
           },
           "signal_components": {
@@ -208,38 +188,6 @@
           "signal_classes": [
             "Methods"
           ],
-          "theme": "Atlases, compendia, reference resources"
-        }
-      ]
-    },
-    {
-      "label": "Metagenomics benchmarking & pipelines",
-      "query": "((metagenomics AND (benchmark* OR pipeline OR \"best practices\" OR reproducible OR workflow)) OR ((Kraken2 OR MetaPhlAn OR Bracken OR Centrifuge OR Kaiju) AND (benchmark* OR evaluation))) AND (benchmark* OR workflow OR pipeline OR Snakemake OR Nextflow OR WDL) NOT (case report OR randomized OR psychology)",
-      "count": 1,
-      "items": [
-        {
-          "pmid": "42690060",
-          "title": "Optimizing a culture-enriched hybrid metagenomics pipeline to assess the AMR footprint of livestock manure in anaerobic digestate.",
-          "authors": "Nahidur Rahman, A S M Zisanur Rahman, David B Levin, Tim A McAllister, Nazim Cicek, Hooman Derakhshani",
-          "journal": "Microbiology spectrum",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42690060/",
-          "abstract_snippet": "The role of environmental samples from livestock production systems, including manure and anaerobic digestate, as reservoirs of antimicrobial resistance genes (ARGs) is likely underestimated because conventional metagenomic approaches can overlook low-abundanc…",
-          "score": 4.935,
-          "score_components": {
-            "theme_priority": 1.05,
-            "research_signal": 2.4,
-            "venue": 0.0,
-            "recency": 1.485,
-            "cross_domain": 0.0
-          },
-          "signal_components": {
-            "metagenomics_surveillance": 2.4
-          },
-          "signal_classes": [
-            "Metagenomics / surveillance"
-          ],
           "theme": "Metagenomics benchmarking & pipelines"
         }
       ]
@@ -247,27 +195,81 @@
     {
       "label": "ML for evolution & pathogens",
       "query": "(((\"machine learning\" OR \"deep learning\" OR transformer) AND (virus OR pathogen OR evolution OR phylogeny)) OR ((\"protein language model\" OR ESM) AND (mutation OR evolution OR fitness))) AND (\"machine learning\" OR \"deep learning\" OR transformer OR \"foundation model\" OR \"protein language model\" OR ESM) NOT (case report OR randomized OR psychology)",
-      "count": 9,
+      "count": 6,
       "items": [
         {
-          "pmid": "42690599",
-          "title": "Management of missing air pollution data within urban environments using machine learning regressions: a case study for Delhi, India.",
-          "authors": "Sedra Shafi, Nicola Scafetta",
-          "journal": "Environmental science and pollution research international",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42690599/",
-          "abstract_snippet": "Machine learning models are increasingly used in air pollution research, yet their application to long-term reconstruction of missing air-quality records remains limited. Pollutants such as PM2.5, PM10, O3, NO2, SO2, and CO pose major environmental challenges …",
-          "score": 5.885,
+          "pmid": "42696540",
+          "title": "Systematic discovery of circular permutations across the protein universe using CIRPIN.",
+          "authors": "Aiden R Kolodziej, S Mazdak Abulnaga, Sergey Ovchinnikov",
+          "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+          "pubdate": "2026-09-04",
+          "pubdate_utc": "2026-09-04T00:00:00+00:00",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42696540/",
+          "abstract_snippet": "Protein structure search has been revolutionized by deep learning methods that can rapidly search massive databases. However, current structure search tools often miss proteins related by topological rearrangements, particularly circular permutation, wherein p…",
+          "score": 8.286,
           "score_components": {
             "theme_priority": 1.0,
-            "research_signal": 3.4,
+            "research_signal": 4.3,
             "venue": 0.0,
-            "recency": 1.485,
+            "recency": 1.486,
+            "cross_domain": 1.5
+          },
+          "signal_components": {
+            "viral_evolution": 2.6,
+            "methods": 1.7
+          },
+          "signal_classes": [
+            "Viral evolution",
+            "Methods"
+          ],
+          "theme": "ML for evolution & pathogens"
+        },
+        {
+          "pmid": "42696700",
+          "title": "Real-Time Nanoscale Multiparametric Biophysical Phenotyping of Single Cells by Surface Plasmon Resonance Microscopy.",
+          "authors": "Wenwen Jing, Yushi Gao, Xi Chen, Ying Fan, Wenjie Li, Guodong Sui",
+          "journal": "ACS sensors",
+          "pubdate": "2026-09-04",
+          "pubdate_utc": "2026-09-04T00:00:00+00:00",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42696700/",
+          "abstract_snippet": "How cell physical state relates to function and stimulus response remains difficult to resolve because most methods measure only one biophysical property at a time. Yet cellular behavior emerges from the interplay of features, including adhesion, morphology, a…",
+          "score": 8.086,
+          "score_components": {
+            "theme_priority": 1.0,
+            "research_signal": 4.1,
+            "venue": 0.0,
+            "recency": 1.486,
+            "cross_domain": 1.5
+          },
+          "signal_components": {
+            "cancer_evolution": 2.4,
+            "methods": 1.7
+          },
+          "signal_classes": [
+            "Cancer evolution",
+            "Methods"
+          ],
+          "theme": "ML for evolution & pathogens"
+        },
+        {
+          "pmid": "42695874",
+          "title": "Immunoproteomic Profiling of Autoantibodies and Antibodies against Infectious Agents in Autoimmune Diseases.",
+          "authors": "Choa Yun, Ji Qiu, M Constanza Camargo, Lusheng Song, Joshua LaBaer, Hyokyoung G Hong",
+          "journal": "Journal of proteome research",
+          "pubdate": "2026-09-04",
+          "pubdate_utc": "2026-09-04T00:00:00+00:00",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42695874/",
+          "abstract_snippet": "Prior research investigated limited antibody sets within individual autoimmune diseases. Using the Nucleic-Acid Programmable Protein Array platform, we measured antibodies against 280 human, 40 viral, and 15 bacterial antigens in serum from 237 patients with 8…",
+          "score": 4.186,
+          "score_components": {
+            "theme_priority": 1.0,
+            "research_signal": 1.7,
+            "venue": 0.0,
+            "recency": 1.486,
             "cross_domain": 0.0
           },
           "signal_components": {
-            "methods": 3.4
+            "methods": 1.7
           },
           "signal_classes": [
             "Methods"
@@ -283,12 +285,12 @@
           "pubdate_utc": "2026-09-04T00:00:00+00:00",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42694010/",
           "abstract_snippet": "Developing practical aqueous zinc metal batteries is crucial for safe grid energy storage. However, zinc anode imposes severe interfacial mass transfer and kinetic bottlenecks at high rates and high capacities, driven by thermodynamically competitive hydrogen …",
-          "score": 4.194,
+          "score": 4.186,
           "score_components": {
             "theme_priority": 1.0,
             "research_signal": 1.7,
             "venue": 0.0,
-            "recency": 1.494,
+            "recency": 1.486,
             "cross_domain": 0.0
           },
           "signal_components": {
@@ -300,128 +302,24 @@
           "theme": "ML for evolution & pathogens"
         },
         {
-          "pmid": "42691474",
-          "title": "Recent Advances in Surface-Enhanced Raman Spectroscopy for Virus Detection.",
-          "authors": "Cassandra L Wouters, Clarice E Froehlich, Timmy B Nguyen, Christy L Haynes",
-          "journal": "ACS sensors",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42691474/",
-          "abstract_snippet": "Since the onset of the COVID-19 pandemic in 2020, the importance of virus detection and development of new diagnostics for emerging or evolving viruses has been a major focus in the field of bioanalytical sensing. Surface-enhanced Raman spectroscopy (SERS) is …",
-          "score": 4.185,
+          "pmid": "42696859",
+          "title": "Comparative analysis of human papilloma virus detection methods and prognostic significance of transcriptionally active viral load in oropharyngeal squamous cell carcinoma.",
+          "authors": "Stian Tornaas, Ruoyu Wang, Svein Erik Emblem Moe, Siren Fromreide, Rammah Elnour, Åsa Karlsdottir",
+          "journal": "Oral oncology",
+          "pubdate": "2026-09-04",
+          "pubdate_utc": "2026-09-04T00:00:00+00:00",
+          "link": "https://pubmed.ncbi.nlm.nih.gov/42696859/",
+          "abstract_snippet": "Human papilloma virus (HPV)-related head and neck squamous cell carcinoma (HNSCC) incidence is rising. Despite the prognostic and therapeutic implication of HPV status, standardised detection methods are lacking. This study compared multiple HPV detection meth…",
+          "score": 2.486,
           "score_components": {
             "theme_priority": 1.0,
-            "research_signal": 1.7,
+            "research_signal": 0.0,
             "venue": 0.0,
-            "recency": 1.485,
+            "recency": 1.486,
             "cross_domain": 0.0
           },
-          "signal_components": {
-            "methods": 1.7
-          },
-          "signal_classes": [
-            "Methods"
-          ],
-          "theme": "ML for evolution & pathogens"
-        },
-        {
-          "pmid": "42690631",
-          "title": "Stress-Induced Electronic/Atomic Interfacial Evolution of MXene/MoS2-Ionic Liquid Heterostructures Enables Adaptive Lubrication in Epoxy Coatings.",
-          "authors": "Chuan Tang, Changyou Wang, Bo Ling, Xiaoqiang Fan, Chen Xiao, Lin Zhang",
-          "journal": "ACS applied materials & interfaces",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42690631/",
-          "abstract_snippet": "The tribological performance of MXene/MoS2 heterostructure-based polymer coatings is limited by an incomplete understanding of electronic/atomic interfacial evolution, as well as an insufficient adaptive response to dynamic contact stress under friction condit…",
-          "score": 4.185,
-          "score_components": {
-            "theme_priority": 1.0,
-            "research_signal": 1.7,
-            "venue": 0.0,
-            "recency": 1.485,
-            "cross_domain": 0.0
-          },
-          "signal_components": {
-            "methods": 1.7
-          },
-          "signal_classes": [
-            "Methods"
-          ],
-          "theme": "ML for evolution & pathogens"
-        },
-        {
-          "pmid": "42690533",
-          "title": "Lightweight Transformer-based knowledge distillation framework for high-dimensional spatiotemporal radiomics in breast cancer risk prediction.",
-          "authors": "Haofan Huang, Han Zhou, Kaibin Huang, Jie Yang, Peixi Ying, Puxiang Lai",
-          "journal": "Visual computing for industry, biomedicine, and art",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42690533/",
-          "abstract_snippet": "Breast cancer exhibits significant spatiotemporal heterogeneity. Traditional radiomics approaches usually rely on low-temporal-resolution imaging and discrete image phases, failing to capture the rapid and continuous kinetic evolution within the tumor microenv…",
-          "score": 4.185,
-          "score_components": {
-            "theme_priority": 1.0,
-            "research_signal": 1.7,
-            "venue": 0.0,
-            "recency": 1.485,
-            "cross_domain": 0.0
-          },
-          "signal_components": {
-            "methods": 1.7
-          },
-          "signal_classes": [
-            "Methods"
-          ],
-          "theme": "ML for evolution & pathogens"
-        },
-        {
-          "pmid": "42689470",
-          "title": "Ecological Filtering by Tuber Compartments Shapes Stable Core Microbiomes That Underpin Potato Plant Growth Across Environments.",
-          "authors": "Yizhu Qiao, Junqing Qiao, Roeland L Berendsen, Xu Cheng, Corné M J Pieterse, Yang Song",
-          "journal": "Plant, cell & environment",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42689470/",
-          "abstract_snippet": "Harnessing plant microbiomes for sustainable agriculture requires understanding not only whether they can boost crop performance, but also how ecological processes govern their assembly, stability, and functional contributions across environments. While we pre…",
-          "score": 4.185,
-          "score_components": {
-            "theme_priority": 1.0,
-            "research_signal": 1.7,
-            "venue": 0.0,
-            "recency": 1.485,
-            "cross_domain": 0.0
-          },
-          "signal_components": {
-            "methods": 1.7
-          },
-          "signal_classes": [
-            "Methods"
-          ],
-          "theme": "ML for evolution & pathogens"
-        },
-        {
-          "pmid": "42686980",
-          "title": "Artificial intelligence and ultra-high performance computing methods and experiments for drug discovery: virtual screening, deep learning, molecular dynamics simulations, ADMET modelling, and experimental validation.",
-          "authors": "Lunna Li, Lianna D Soriano, Welela M Kedir, Felix L Hoch, Desmond K Loke",
-          "journal": "Molecular biomedicine",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42686980/",
-          "abstract_snippet": "Recent years have witnessed considerable progress in computer-aided drug discovery, driven by the incorporation of computational technologies within both academic and pharmaceutical environments. This evolution is marked by a significant accumulation of data p…",
-          "score": 4.185,
-          "score_components": {
-            "theme_priority": 1.0,
-            "research_signal": 1.7,
-            "venue": 0.0,
-            "recency": 1.485,
-            "cross_domain": 0.0
-          },
-          "signal_components": {
-            "methods": 1.7
-          },
-          "signal_classes": [
-            "Methods"
-          ],
+          "signal_components": {},
+          "signal_classes": [],
           "theme": "ML for evolution & pathogens"
         },
         {
@@ -433,33 +331,12 @@
           "pubdate_utc": "2026-09-04T00:00:00+00:00",
           "link": "https://pubmed.ncbi.nlm.nih.gov/42023489/",
           "abstract_snippet": "Water behaves very differently at surfaces and under extreme confinement, but the boundary between these two regimes has remained unclear. Despite evidence that interfacial effects persist under sub-nanometre confinement, the molecular-scale behaviour and its …",
-          "score": 2.494,
+          "score": 2.486,
           "score_components": {
             "theme_priority": 1.0,
             "research_signal": 0.0,
             "venue": 0.0,
-            "recency": 1.494,
-            "cross_domain": 0.0
-          },
-          "signal_components": {},
-          "signal_classes": [],
-          "theme": "ML for evolution & pathogens"
-        },
-        {
-          "pmid": "42691937",
-          "title": "Analyzing transitions, safety and influencing factors of driving patterns as multivariate short-term behaviors in freeway diverging areas.",
-          "authors": "Xuesong Wang, Xianhui Liu, Qiming Guo, Andrew Morris, Xinchen Ye",
-          "journal": "Accident; analysis and prevention",
-          "pubdate": "2026-09-03",
-          "pubdate_utc": "2026-09-03T00:00:00+00:00",
-          "link": "https://pubmed.ncbi.nlm.nih.gov/42691937/",
-          "abstract_snippet": "Freeway diverging areas require drivers to decelerate, change lanes, and observe traffic simultaneously, resulting in elevated crash risk compared to basic segments. Previous studies have mainly focused on isolated maneuvers which cannot fully capture the inte…",
-          "score": 2.485,
-          "score_components": {
-            "theme_priority": 1.0,
-            "research_signal": 0.0,
-            "venue": 0.0,
-            "recency": 1.485,
+            "recency": 1.486,
             "cross_domain": 0.0
           },
           "signal_components": {},
